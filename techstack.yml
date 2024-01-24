@@ -1,0 +1,31 @@
+repo_name: dacog/webnovel-ebook-creator
+report_id: a0b8f24e3bbe72e7d5e39024ee0b1961
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-24T06:37:43+00:00'
+requested_by: dacog
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dacog/webnovel-ebook-creator
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/dacog/webnovel-ebook-creator
+  detection_source: Repo Metadata
